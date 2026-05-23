@@ -11,7 +11,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text glass-card">
             <p>
-              I am a Software Engineer and Full-Stack Developer with a solid background in building scalable web applications. Currently, I am working at CODERRS TANK PVT LTD, delivering high-quality software solutions using modern JavaScript frameworks.
+              I am a Software Engineer and MERN Stack Developer with a solid background in building scalable web applications. Currently, I am working at CODERRS TANK PVT LTD, delivering high-quality software solutions using modern JavaScript frameworks.
             </p>
             <p>
               With experience at multiple tech companies, I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have also worked extensively with PHP and CodeIgniter. I have successfully developed enterprise SaaS platforms like Connect-CRM, automated EdTech backends, and comprehensive government web solutions for Bihar State projects.

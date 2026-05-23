@@ -30,7 +30,7 @@ const Navbar = () => {
     <header className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <div className="container nav-container">
         <a href="#home" className="logo" onClick={closeMenu}>
-          Dev<span className="accent">Portfolio</span>
+          Juhi<span className="accent">Mishra</span>
         </a>
 
         {/* Desktop Nav */}

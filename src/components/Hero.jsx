@@ -12,8 +12,11 @@ const Hero = () => {
           <span className="greeting">Hello, I'm</span>
           <h1 className="hero-title">
             <span className="name">Juhi Mishra</span><br />
-            Full-Stack Developer
+            Software Engineer
           </h1>
+          <h3 className="hero-specialty" style={{ fontSize: '1.2rem', color: 'var(--primary)', marginBottom: '1.5rem', fontWeight: '500', opacity: 0.9 }}>
+            MERN Stack Developer
+          </h3>
           <p className="hero-subtitle">
             I build exceptional and accessible digital experiences for the web.
             Passionate about creating elegant solutions to complex problems.

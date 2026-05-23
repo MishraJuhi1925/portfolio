@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container footer-container">
         <div className="footer-brand">
           <a href="#home" className="logo">
-            Dev<span className="accent">Portfolio</span>
+            Juhi<span className="accent">Mishra</span>
           </a>
           <p className="footer-desc">
             Building digital products, brands, and experiences.
